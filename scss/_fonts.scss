@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,300;8..144,400&display=swap');
+$fuente: 'Roboto Serif', serif;
+
+h1,h2,h3{
+    color:$orange;
+    font-family: $fuente;
+    
+}
+
+.tex-center{
+    justify-content: center;
+}
+.bg-blue{
+    background-color:$blueT;
+}
+
+
+//Tamaño de texto
+$fontS:1.2em;
+$fontM:1.6em;
+$fontXL:2em;
+$fontXXL:5em;
+
+.tex-center{
+    justify-content: center;
+}
+
+//fontweiht
+$textBold: 600;

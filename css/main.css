@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,300;8..144,400&display=swap");
+h1, h2, h3 {
+  color: rgb(217, 124, 43);
+  font-family: "Roboto Serif", serif;
+}
+
+.tex-center {
+  justify-content: center;
+}
+
+.bg-blue {
+  background-color: rgba(62, 110, 140, 0.8);
+}
+
+.tex-center {
+  justify-content: center;
+}
+
+.navbar {
+  background-color: rgba(62, 110, 140, 0.8);
+}
+.navbar img {
+  width: 100%;
+}
+.navbar ul li a {
+  font-size: 1.6em;
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+}
+
+.anuncio h2 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+#categoria {
+  justify-content: center;
+}
+#categoria .border {
+  padding-left: 1em;
+  border: 2px;
+  border-color: rgb(62, 110, 140);
+}
+#categoria .border img {
+  width: 400px;
+  margin-left: 2em;
+}
+
+footer article div h3 .pieTituloMd {
+  justify-content: center;
+}/*# sourceMappingURL=main.css.map */

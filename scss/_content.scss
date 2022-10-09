@@ -1,0 +1,38 @@
+//index
+.anuncio{
+    h2{
+        text-align: center;
+        color: $white;
+
+    }
+}
+#categoria{
+    justify-content: center;
+    .border{
+        padding-left: 1em;
+        border: 2px;
+        border-color: $blue;
+        img{
+            width: 400px;
+            margin-left: 2em;         
+        }
+    }
+    
+}
+footer{
+    article{
+        div{
+            h3{
+                .pieTituloMd{
+                    justify-content: center;
+                }
+            }
+            }
+        }
+    }
+
+    .inicio{
+        p{
+            justify-content: ;
+        }
+    }
